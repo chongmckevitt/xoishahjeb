@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheishaigh.ursuadesigns.com/sitemap.xml
